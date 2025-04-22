@@ -15,9 +15,9 @@ O projeto também inclui documentação detalhada que permitirá a personalizaç
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem de programação: **C**
-- Compiladores: GCC (Linux) ou MinGW (Windows)
-- Interface de texto no terminal (CLI)
+- Linguagem de programação: **Python**
+- Compiladores: MinGW (Windows)
+
 - Sistema de perguntas personalizáveis por arquivo externo (em planejamento)
 
 ## 🧠 Fundamentação
